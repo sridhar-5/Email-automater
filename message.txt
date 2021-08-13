@@ -1,16 +1,3 @@
 Greetings ${PERSON_NAME},
-Hope this email finds you well.
 
-Congratulations on becoming a Single Point of Contact of ASCII 2021-2022. We are extremely eager to work with you, to make ASCII reach greater heights.
-As a SPOC, your role will be to make sure your respective classes are informed of all upcoming events and their details, as well as actively engage in the organizing of the same.
-
-Join the ASCII discord server here - Link
-If you don't have discord, don't worry. It will take a minute to register, and we will help you with the procedure if required.
-
-Feel free to reach out to us for any questions or concerns,
-Regards,
-The ASCII Team.
-
-Contact number - 9391557638
-Mahima Lolla,
-ASCII Co-Chair (B.Tech)
+YOU Message here
