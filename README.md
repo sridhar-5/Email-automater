@@ -1,4 +1,5 @@
 # Email-automater
+
 This repo contains scripts to automate emails using python's smtplib module.
 
 ## Usage Instructions 
